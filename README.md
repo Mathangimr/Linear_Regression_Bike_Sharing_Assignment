@@ -40,11 +40,11 @@
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-This project is solely contributed by the author - @Mathangimr 
+This project is solely contributed by the author - [@Mathangimr](https://github.com/Mathangimr/)
 
 
 ## Contact
-Created by @Mathangimr - feel free to contact me!
+Created by [@Mathangimr](https://github.com/Mathangimr/) - feel free to contact me!
 
 
 <!-- Optional -->
